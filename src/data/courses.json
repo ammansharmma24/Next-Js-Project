@@ -1,0 +1,40 @@
+{
+    "courses":[
+    {
+        "id":1,
+        "course_name": "Web App Development",
+        "description": "Learn to build dynamic and responsive web applications using the latest web technologies. This course covers everything from front-end development to back-end integration, providing you with the skills needed to create modern web applications.",
+        "fees_in_inr": 20000,
+        "avail": true
+    },
+    {
+        "id":2,
+        "course_name": "Android App Development",
+        "description": "Master the fundamentals of Android app development. This course will teach you how to design, develop, and deploy Android applications, from basic layouts to complex functionalities, using industry-standard tools and practices.",
+        "fees_in_inr": 25000,
+        "avail": true
+    },
+    {
+        "id":3,
+        "course_name": "AI/ML",
+        "description": "Dive into the world of Artificial Intelligence and Machine Learning. This course offers an in-depth understanding of AI/ML algorithms, data processing, model training, and deployment, enabling you to build intelligent systems and applications.",
+        "fees_in_inr": 30000,
+        "avail": true
+    },
+    {
+        "id":4,
+        "course_name": "Data Structures and Algorithms",
+        "description": "Enhance your problem-solving skills with a solid understanding of data structures and algorithms. This course covers essential concepts such as arrays, linked lists, trees, graphs, and algorithmic techniques to optimize your code.",
+        "fees_in_inr": 18000,
+        "avail": true
+    },
+    {
+        "id":5,
+        "course_name": "Java Development",
+        "description": "Gain expertise in Java programming with our comprehensive Java Development course. Learn to develop robust and scalable applications using Java, covering core concepts, advanced topics, and best practices for effective coding.",
+        "fees_in_inr": 22000,
+        "avail": true
+    }
+]
+
+}
